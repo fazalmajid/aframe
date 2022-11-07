@@ -40,6 +40,7 @@
     "debug": "ngokevin/debug#noTimestamp",
     "deep-assign": "^2.0.0",
     "@ungap/custom-elements": "^1.1.0",
+    "layout-bmfont-text": "fazalmajid/layout-bmfont-text#dbf11665256ea4a132cd6ccbe69251b9ed8cc668",
     "load-bmfont": "^1.2.3",
     "object-assign": "^4.0.1",
     "present": "0.0.6",
